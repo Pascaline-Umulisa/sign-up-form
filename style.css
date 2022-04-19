@@ -39,6 +39,9 @@ img{
     width: 350px;
     height: 300px;
 }
+#my-name{
+    text-decoration: underline;
+}
 
 .form{
   padding: 5px 0px 0px 125px ;
